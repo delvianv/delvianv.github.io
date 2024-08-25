@@ -1,21 +1,21 @@
 ## About me
 
-**I'm a software developer specialising in building beautiful cross-platform desktop apps for Windows, macOS, and Linux using Python and Qt. I also have experience in building web and mobile apps for iOS and Android using Django and JavaScript with React and React Native.**
+**I specialise in building beautiful cross-platform desktop apps for Windows, macOS, and Linux using Python and Qt. Additionally, I have experience creating web and mobile apps for iOS and Android with Django, JavaScript, React, and React Native.**
 
-_My work experience for the past two decades is a combination of software and hardware roles. Highlights in my career include building apps for a financial service company, programming automation systems, and maintaining communication equipment for the SA Air Force._
+_Over the past two decades, my career has blended software and hardware roles. Key achievements include building apps for a financial services company, programming electrical automation systems, and maintaining communication equipment for the South African Air Force._
 
-**I enjoy learning**
+**I am passionate about learning**
 
-I'm a self-taught programmer with many years of experience. I learned programming from library books in 1998 when I was 12 years old, long before the Internet became the resource it is today. I built my first real app, a point-of-sale system, when I graduated from high school.
+I am a self-taught programmer with many years of experience, beginning my journey at 12 years old in 1998, learning from library books well before the Internet became the resource it is today. My first significant project was a point-of-sale system, which I built after graduating from high school.
 
-**I like solving problems**
+**I am a problem-solving enthusiast**
 
-One of the things I like about programming is being able to build something out of nothing, but I like the satisfaction of solving difficult problems even more.
+Programming allows me to create something from nothing, but what I enjoy most is the satisfaction of solving complex problems.
 
-**I have a rare combination of skills**
+**I have a unique skill set**
 
-I graduated from a technical high school with qualifications in Electrical Engineering and in Logic Systems. I also studied Electronic Engineering and Logic Systems at college, so I understand exactly how the software interacts with the hardware.
+I bring a rare combination of skills, having graduated from a technical high school with qualifications in Electrical Engineering and Logic Systems. My college studies in Electronic Engineering and Logic Systems further deepen my understanding of the interplay between software and hardware.
 
-**I value teamwork and discipline**
+**Teamwork and discipline**
 
-Being a soldier taught me the value of teamwork and instilled in me character traits such as discipline, respect, perseverance, attention to detail, and pride in my work.
+My time as a soldier instilled in me the importance of teamwork and core values such as discipline, respect, perseverance, attention to detail, and pride in my work.
