@@ -14,7 +14,7 @@ Programming allows me to create something from nothing, but what I enjoy most is
 
 **I have a unique skill set**
 
-I bring a rare combination of skills, having graduated from a technical high school with qualifications in Electrical Engineering and Logic Systems. My college studies in Electronic Engineering and Logic Systems further deepen my understanding of the interplay between software and hardware.
+I bring a rare combination of skills, having graduated from a technical high school with qualifications in Electrical Engineering and Logic Systems. My college studies in Electronic Engineering and Logic Systems further deepened my understanding of the interplay between software and hardware.
 
 **Teamwork and discipline**
 
