@@ -1,6 +1,6 @@
 ## About me
 
-**I specialise in building beautiful cross-platform desktop apps for Windows, macOS, and Linux using Python and Qt. Additionally, I have experience creating web and mobile apps for iOS and Android with Django, JavaScript, React, and React Native.**
+**I build beautiful cross-platform desktop apps for Windows, macOS, and Linux using Python and Qt. Additionally, I create web and mobile apps for iOS and Android with Django, JavaScript, React, and React Native.**
 
 _Over the past two decades, my career has blended software and hardware roles. Key achievements include building apps for a financial services company, programming electrical automation systems, and maintaining communication equipment for the South African Air Force._
 
