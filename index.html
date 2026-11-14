@@ -23,6 +23,15 @@
     />
     <link rel="icon" href="images/delvian.jpg" />
     <title>Delvian Valentine | Software Developer</title>
+    <style>
+      html {
+        scroll-padding-top: 5rem;
+      }
+
+      section[id] {
+        scroll-margin-top: 5rem;
+      }
+    </style>
   </head>
 
   <body>
@@ -87,7 +96,7 @@
         />
       </symbol>
     </svg>
-    <nav class="p-3 text-bg-dark fixed-top">
+    <nav class="p-3 text-bg-dark sticky-top" aria-label="Primary">
       <div
         class="container d-flex flex-wrap align-items-center justify-content-center justify-content-lg-start"
       >
@@ -102,7 +111,7 @@
             <a href="#about" class="nav-link px-2 text-white">About me</a>
           </li>
         </ul>
-        <div class="text-end" id="nav-contacts"></div>
+        <div class="text-end d-none d-lg-block" id="nav-contacts"></div>
       </div>
     </nav>
 
